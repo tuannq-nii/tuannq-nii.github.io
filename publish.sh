@@ -12,5 +12,5 @@ cp DATA/CNAME tuannq-nii.github.io/
 cd $OUT_DIR
 git add .
 git commit -m "update"
-git push origin master
+git push origin main
 
